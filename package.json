@@ -1,0 +1,22 @@
+{
+  "name": "js-images",
+  "version": "1.0.0",
+  "description": "playground for image manipulation",
+  "main": "index.html",
+  "scripts": {
+    "test": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nope"
+  },
+  "keywords": [
+    "image",
+    "manipulation"
+  ],
+  "author": "Jacob Wunder <jacob@jacobwunder.com>",
+  "license": "MIT",
+  "standard": {
+    "globals": ["window", "Two", "console"]
+  }
+}

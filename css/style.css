@@ -1,0 +1,19 @@
+* { outline: none; }
+html, body {
+  height:100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+#draw-shapes {
+  position: fixed;
+  z-index: -10;
+}
+
+a {
+  font-family: monospace;
+}
+
+a:link {
+  color: #3399ff
+}
